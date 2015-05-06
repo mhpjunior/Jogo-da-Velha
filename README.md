@@ -1,2 +1,2 @@
-# YouHome
-Projeto pessoal com foco na automação residencial de baixo custo
+# Jogo da Velha
+Jogo da velha bugado
